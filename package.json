@@ -35,7 +35,7 @@
     "mongoose": "^6.3.3",
     "require-dir-all": "^0.4.15",
     "string-strip-html": "^9.1.12",
-    "swagger-autogen": "^2.21.8",
+    "swagger-autogen": "^2.22.0",
     "swagger-ui-express": "^4.5.0",
     "uuid": "^8.3.2"
   },
