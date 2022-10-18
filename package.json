@@ -40,7 +40,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "eslint": "^8.25.0",
     "eslint-config-google": "^0.14.0",
     "nodemon": "^2.0.12"
