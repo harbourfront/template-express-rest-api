@@ -6,8 +6,8 @@ const express = require('express')
 const app = express()
 
 // Rate limiting
-const RateLimit = require('express-rate-limit')
-app.use(new RateLimit({
+const rateLimit = require('express-rate-limit')
+app.use(rateLimit({
     windowMs: 1 * 60 * 1000,
     max: env.MAX_REQUESTS_PER_MINUTE,
     message: { message: 'Too many requests. Try again later.' }
