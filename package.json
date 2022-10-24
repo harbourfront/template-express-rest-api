@@ -25,7 +25,7 @@
   "homepage": "https://github.com/harbourfront/template-express-rest-api#readme",
   "dependencies": {
     "chalk": "^5.1.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-mongo-sanitize": "^2.2.0",
     "express-rate-limit": "^6.6.0",
     "handlebars": "^4.7.7",
